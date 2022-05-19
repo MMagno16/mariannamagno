@@ -13,7 +13,7 @@
   <img align="center" alt="Mari-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Mari-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Mari-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="center" alt="Mari-Java" height="30" width="40" src="https://ensinado.com.br/wp-content/uploads/2021/06/java_logo_640.jpg">
+  <img align="center" alt="Mari-Java" height="30" width="40" src="https://dev.java/assets/images/java-logo-vert-blk.png">
 
 </div>
   
