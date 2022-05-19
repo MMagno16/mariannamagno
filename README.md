@@ -1,4 +1,4 @@
-## Marianna Magnoo
+## Marianna Magno ✿
 <div align="center">
     <a href="https://github.com/MMagno16">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MMagno16&layout=compact&langs_count=7&theme=dracula"/>
