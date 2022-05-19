@@ -13,7 +13,7 @@
   <img align="center" alt="Mari-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Mari-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Mari-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="center" alt="Mari-Java" height="30" width="50" src="https://www.oracle.com/a/tech/img/rc10-java-badge-3.png">
+  <img align="center" alt="Mari-Java" height="40" width="50" src="https://www.oracle.com/a/tech/img/rc10-java-badge-3.png">
 
 </div>
   
