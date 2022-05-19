@@ -17,5 +17,4 @@
 <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
     
 ##
-    ![GitHub Org's stars](https://img.shields.io/github/stars/MMagno16?style=social)
 
