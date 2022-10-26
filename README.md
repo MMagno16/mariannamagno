@@ -1,4 +1,5 @@
 ## Hi! I'm Marianna Magno  <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
+### Full-Stack Developer at Avanade | HTML | CSS | JS | REACT | NODE.JS
 <div align="center">
     <a href="https://github.com/MMagno16">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MMagno16&layout=compact&langs_count=7&theme=dracula"/>
