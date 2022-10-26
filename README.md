@@ -1,5 +1,5 @@
-## Hi! I'm Marianna Magno  <img src="https://static.vecteezy.com/ti/vetor-gratis/t2/2229193-vector-beleza-flores-de-lotus-design-logo-template-icon-gr%C3%A1tis-vetor.jpg" width="50"></h2>
-##### ♡ Full-Stack Developer at <img src="https://logos-download.com/wp-content/uploads/2022/01/Avanade_Logo-700x147.png" width="70"/>
+## Hi! I'm Marianna Magno  <img src="https://media.istockphoto.com/vectors/vector-heart-symbol-in-a-pink-circle-on-a-white-background-vector-id1225481538?k=20&m=1225481538&s=170667a&w=0&h=ugVH6gRIyuEZ6ENVaF53GB9acto0wSLl-kyzhbYq4fo=" width="25"></h2>
+##### <img src="https://t4.ftcdn.net/jpg/02/60/67/63/360_F_260676354_6CgeLuYnRaPtuARkW5GPLdRqhVubfgfb.webp" width="30"> Full-Stack Developer at <img src="https://logos-download.com/wp-content/uploads/2022/01/Avanade_Logo-700x147.png" width="70"/>
 
 ##
 
