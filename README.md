@@ -1,6 +1,8 @@
 ## Hi! I'm Marianna Magno  <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 ##### Full-Stack Developer at <img src="https://logos-download.com/wp-content/uploads/2022/01/Avanade_Logo-700x147.png" width="70"/>
 
+##
+
 <div align="center">
   <a href="https://github.com/MMagno16">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MMagno16&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
