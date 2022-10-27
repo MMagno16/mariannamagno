@@ -1,5 +1,5 @@
 <div align="center">
- <h2> Marianna Magno  <img src="https://i.pinimg.com/originals/8c/9f/95/8c9f956127d2c25fa54e3b92ec321a1b.jpg" width="40"></h2>
+ <h1> Marianna Magno  <img src="https://i.pinimg.com/originals/8c/9f/95/8c9f956127d2c25fa54e3b92ec321a1b.jpg" width="40"></h1>
   </div>
 <h5>Full-Stack Developer at <img src="https://logos-download.com/wp-content/uploads/2022/01/Avanade_Logo-700x147.png" width="70"/> </h5>
  
