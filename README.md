@@ -1,15 +1,27 @@
 <div align="center">
- <h1> Marianna Magno  <img src="https://i.pinimg.com/originals/8c/9f/95/8c9f956127d2c25fa54e3b92ec321a1b.jpg" width="60"></h1>
+ <h1> Marianna Magno Osório <img src="https://media.istockphoto.com/vectors/vector-heart-symbol-in-a-pink-circle-on-a-white-background-vector-id1225481538?k=20&m=1225481538&s=170667a&w=0&h=ugVH6gRIyuEZ6ENVaF53GB9acto0wSLl-kyzhbYq4fo=" width="40"></h1>
   </div>
-<h3>Full-Stack Developer at <img src="https://logos-download.com/wp-content/uploads/2022/01/Avanade_Logo-700x147.png" width="70"/> </h3>
+  <div>
+ <p align="center">
+<h4>Full-Stack Developer at <img src="https://logos-download.com/wp-content/uploads/2022/01/Avanade_Logo-700x147.png" width="70"/> </h4>
+ </p>
+ </div>
+ 
+ 
  
 <div align="center">
   <a href="https://github.com/MMagno16">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MMagno16&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MMagno16&layout=compact&langs_count=7&theme=dracula"/>
 </div>
-
-  ##
+<p align="center">
+    <div align="center">
+        <a href="https://github.com/glauciodaniel?tab=followers">
+            <img align="center" alt="Follow" src="https://img.shields.io/github/followers/MMagno16?style=flat-square&amp;logo=github&amp;label=Followers&amp;color=pink">
+        </a>
+    </div>
+</p>
+ 
   
 <div> 
   <a href = "mailto:mmagnosorio@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
@@ -30,7 +42,8 @@
   
   ![Snake animation](https://github.com/MMagno16/MMagno16/blob/output/github-contribution-grid-snake.svg)
 
-## 
+
+
 
 ##### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> <b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> ♡
  </div>
