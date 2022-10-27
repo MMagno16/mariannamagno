@@ -1,10 +1,8 @@
 <div align="center">
- <h1> Marianna Magno Osório <img src="https://media.istockphoto.com/vectors/vector-heart-symbol-in-a-pink-circle-on-a-white-background-vector-id1225481538?k=20&m=1225481538&s=170667a&w=0&h=ugVH6gRIyuEZ6ENVaF53GB9acto0wSLl-kyzhbYq4fo=" width="40"></h1>
+ <h1> Marianna Magno Osório <img src="https://i.pinimg.com/originals/8c/9f/95/8c9f956127d2c25fa54e3b92ec321a1b.jpg" width="40"></h1>
   </div>
-  <div>
- <p align="center">
+  <div align="center">
 <h4>Full-Stack Developer at <img src="https://logos-download.com/wp-content/uploads/2022/01/Avanade_Logo-700x147.png" width="70"/> </h4>
- </p>
  </div>
  
  
