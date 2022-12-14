@@ -28,6 +28,8 @@
    <a href="https://www.w3schools.com/typescript/" target="_blank"><img align="center" alt="Mari-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <a href="https://www.w3schools.com/react/" target="_blank"><img align="center" alt="Mari-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <a href="https://www.w3schools.com/nodejs/" target="_blank"><img align="center" alt="Mari-NodeJS" height="30 width="40" src="https://storage.semalt.com/uploads/articles/6e222187f3ca196b689b9d3984685dc92.png"/>
+   <a href="https://www.w3schools.com/cs/index.php" target="_blank"><img align="center" alt="Mari-C#" height="30 width="40" src="https://camo.githubusercontent.com/be406e7fcc11cd6204d544a8e1e3a168cd57a6fbf1d3b455830feeb85ef1ec76/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f6373686172702f6373686172702d6f726967696e616c2e737667"/>
+   <a href="https://www.w3schools.com/asp/default.asp" target="_blank"><img align="center" alt="Mari-.NET" height="30 width="40" src="https://camo.githubusercontent.com/2f1508606a38136580ebde098ddf581996b38aa2c554be84d9f0fb680c2bdff1/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f646f746e6574636f72652f646f746e6574636f72652d6f726967696e616c2e737667"/>
   
   ![Snake animation](https://github.com/MMagno16/MMagno16/blob/output/github-contribution-grid-snake.svg)
 
